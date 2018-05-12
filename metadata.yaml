@@ -1,0 +1,38 @@
+_repo: Fame-usurpate_38578
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38578-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Imbriani, Vittorio
+    birthdate: 1840
+    deathdate: 1886
+    gutenberg_agent_id: '37065'
+    url: http://www.gutenberg.org/2009/agents/37065
+    wikipedia: http://it.wikipedia.org/wiki/Vittorio_Imbriani
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2012-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38578'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Manin, Daniele, 1804-1857'
+- !lcc 'PQ'
+- !lcsh 'Zanella, Giacomo, 1820-1888'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832. Faust'
+- !lcsh 'Italian literature -- History and criticism'
+- !lcsh 'Maffei, Andrea, 1798-1885'
+- !lcsh 'Aleardi, Aleardo, 1812-1878'
+tableOfContents: Il nostro quinto gran poeta (Aleardo Aleardi)--Un capolavoro sbagliato
+  (Il Fausto de Goethe) -- Un preteso poeta (Giacomo Zanella) -- Traduttore, traditore
+  (Andrea Maffei) -- Daniele Manin -- È galantuomo il Cairoli?
+title: Fame usurpate
+url: http://www.gutenberg.org/ebooks/38578
